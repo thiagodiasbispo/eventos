@@ -6,7 +6,7 @@
 
 Olá Pythonistas!
 
-Na Pyzza de ontem, discutimos algumas coisas legais e gostaria de compartilhá-las com todos.
+Na [Pyzza de ontem](https://www.meetup.com/pt-BR/pug-se/events/262412845/), discutimos algumas coisas legais e gostaria de compartilhá-las com todos.
 
 1. Temos atualmente 1 custo fixo ligado ao PUG-SE, que é a manutenção da semestralidade da nossa conta no Meetup, bancada por @amaral101 . Como não é justo que somente ele pague, afinal todos nos beneficiamos com o uso da ferramenta, pensamos que...
 
